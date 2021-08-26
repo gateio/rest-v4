@@ -8,9 +8,9 @@ Scroll down for code samples, example requests and responses. Select a language 
 ## Access URL
 REST API BaseURL:
 
-Live trading: https://api.gateio.ws/api/v4
-Futures TestNet trading: https://fx-api-testnet.gateio.ws/api/v4
-Futures live trading alternative (futures only): https://fx-api.gateio.ws/api/v4
+- Live trading: https://api.gateio.ws/api/v4
+- Futures TestNet trading: https://fx-api-testnet.gateio.ws/api/v4
+- Futures live trading alternative (futures only): https://fx-api.gateio.ws/api/v4
 ## SDK
 Available SDK:
 
