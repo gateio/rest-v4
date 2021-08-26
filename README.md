@@ -14,16 +14,19 @@ Futures live trading alternative (futures only): https://fx-api.gateio.ws/api/v4
 ## SDK
 Available SDK:
 
-Python(opens new window)
-Java(opens new window)
-PHP(opens new window)
-Go(opens new window)
-C#(opens new window)
-NodeJS(opens new window)
-Javascript(opens new window)
+- [Python](https://github.com/gateio/gateapi-python "Python")
+- [Java](https://github.com/gateio/gateapi-java "Java")
+- [PHP](https://github.com/gateio/gateapi-php "PHP")
+- [Go](https://github.com/gateio/gateapi-go "Go")
+- [C#](https://github.com/gateio/gateapi-csharp "C#")
+- [NodeJS](https://github.com/gateio/gateapi-nodejs "NodeJS")
+- [Javascript](https://github.com/gateio/gateapi-js "Javascript")
+
 Besides API examples, some SDK provides an additional demo application. The demo application is a relatively complete example demonstrating how to use the SDK. It can be built and run separately. Refer to corresponding repository for details.
 
-Python(opens new window)
-Java(opens new window)
-C#(opens new window)
-Go
+- [Python](https://github.com/gateio/gateapi-python/tree/master/example "Python")
+- [Java](https://github.com/gateio/gateapi-java/tree/master/example "Java")
+- [C#](https://github.com/gateio/gateapi-csharp/tree/master/example "C#")
+- [Go](https://github.com/gateio/gateapi-go/tree/master/_example "Go")
+
+[More >>](https://www.gate.tv/docs/developers/apiv4/en/ "More >>")
