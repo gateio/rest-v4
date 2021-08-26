@@ -29,4 +29,4 @@ Besides API examples, some SDK provides an additional demo application. The demo
 - [C#](https://github.com/gateio/gateapi-csharp/tree/master/example "C#")
 - [Go](https://github.com/gateio/gateapi-go/tree/master/_example "Go")
 
-[More >>](https://www.gate.tv/docs/developers/apiv4/en/ "More >>")
+[More >>](https://www.gate.io/docs/developers/apiv4/en/ "More >>")
